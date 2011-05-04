@@ -1,6 +1,8 @@
 Vim syntax for jQuery
 =====================
 
+It currently detects syntax and keywords for jQuery 1.6.
+
 About
 -----
 
