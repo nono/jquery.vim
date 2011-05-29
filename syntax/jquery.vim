@@ -1,8 +1,8 @@
 " Vim syntax file
 " Language:    jQuery
 " Maintainer:  Bruno Michel <brmichel@free.fr>
-" Last Change: May 4th, 2011
-" Version:     0.5
+" Last Change: May 28th, 2011
+" Version:     0.5.2
 " URL:         http://api.jquery.com/
 
 if version < 600
